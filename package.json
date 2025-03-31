@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend with js",
+  "keywords": [
+    "backend",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Lalit Rajbanshi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
